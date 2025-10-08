@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Guessing Game",
+      "type": "shell",
+      "command": "make",
+      "args": [],
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "shell": {
+          "executable": "C:\\msys64\\mingw64\\bin\\bash.exe",
+          "args": ["--login", "-i", "-c"]
+        }
+      },
+      "group": "build",
+      "problemMatcher": []
+    }
+  ],
+  "terminal.integrated.profiles.windows": {
+    "MSYS2 MSYS": {
+      "path": "C:\\msys64\\usr\\bin\\bash.exe",
+      "args": ["--login", "-i"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "MSYS2 MSYS"
+}
