@@ -25,7 +25,7 @@ The program provides hints whether the guess is too high or too low.
 
 ## How to Run
 ```bash
-git clone https://github.com/yourusername/number-guessing-game-cpp.git
-cd number-guessing-game-cpp
+git clone https://github.com/AndrewKostiv/Guessing-Game--c---
+cd "Number Guessing Game [c++]"
 make
 ./guessing_game.exe
