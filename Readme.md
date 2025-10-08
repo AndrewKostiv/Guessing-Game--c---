@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game (C++)
+# Number Guessing Game (C++)
 
 A simple console-based number guessing game written in **C++17**.
 
@@ -7,23 +7,23 @@ The program provides hints whether the guess is too high or too low.
 
 ---
 
-## 🧩 Features
+## Features
 - Input validation
 - Random number generation
 - Difficulty levels (easy, medium, hard)
 - Clean separation of logic and user interaction
-- Uses `std::cin`, `std::cout`, and `ignore()` safely
+- Uses "std::cin", "std::cout", and "ignore()" safely
 
 ---
 
-## 🧰 Built With
+## Built With
 - **C++23**
 - **MinGW (G++)**
 - **Makefile** for building
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 git clone https://github.com/yourusername/number-guessing-game-cpp.git
 cd number-guessing-game-cpp
