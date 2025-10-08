@@ -28,4 +28,4 @@ The program provides hints whether the guess is too high or too low.
 git clone https://github.com/AndrewKostiv/Guessing-Game--c---
 cd "Number Guessing Game [c++]"
 make
-./guessing_game.exe
+./main.exe
