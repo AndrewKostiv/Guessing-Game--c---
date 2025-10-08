@@ -27,7 +27,7 @@ The program provides hints whether the guess is too high or too low.
 
 ## How to Run
 
-type these commands into your terminal:
+Type these commands into your terminal:
 
 ```bash
 git clone https://github.com/AndrewKostiv/Number-Guessing-Game-cpp
