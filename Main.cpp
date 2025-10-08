@@ -13,7 +13,7 @@ int main()
     srand(time(0));
     int number = getRandomNumber(100, 1);
     int userGuess;
-    std::cout << "Debug: " << number << std::endl;
+    // std::cout << "Debug: " << number << std::endl;
 
     while (userGuess != number)
     {
