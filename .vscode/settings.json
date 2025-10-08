@@ -3,5 +3,6 @@
     "iostream": "cpp",
     "limits": "cpp"
   },
-  "cSpell.words": ["Wextra"]
+  "cSpell.words": ["Wextra"],
+  "makefile.configureOnOpen": false
 }
