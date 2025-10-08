@@ -11,9 +11,8 @@ The program provides hints whether the guess is too high or too low.
 
 - Input validation
 - Random number generation
-- Difficulty levels (easy, medium, hard)
-- Clean separation of logic and user interaction
 - Uses "std::cin", "std::cout", and "ignore()" safely
+- Loops al;owing several user inputs
 
 ---
 
